@@ -5,7 +5,7 @@ My interests include:
 - Computer graphics
 - Machine Learning
 
-I’m currently learning Python & Javascript, with plans to learn the higher level topics like computer graphics and machine learning in the future
+I’m currently learning Python & Javascript, with plans to learn the higher level topics like computer graphics and machine learning in the future. I'm quite excited for my future with CS!
 
 <!---
 AustinH1242/AustinH1242 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
