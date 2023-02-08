@@ -1,4 +1,4 @@
-I’m @AustinH1242, a student currently studying computer science.   return
+I’m @AustinH1242, a student currently studying computer science. <br>
 My interests include:
 - General studies
 - Data science
